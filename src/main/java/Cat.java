@@ -1,6 +1,3 @@
-
-
-
 public class Cat {
 
     private String message;
